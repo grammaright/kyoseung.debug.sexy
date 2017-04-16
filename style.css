@@ -8,3 +8,9 @@ body {
     left: 50%;
     margin-left: -384px;
 }
+
+.powered {
+    width: 100%;
+    font-size: 0.8em;
+    margin-top: 64px;
+}
