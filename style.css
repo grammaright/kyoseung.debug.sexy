@@ -14,7 +14,7 @@ body {
     width: 256px;
     height: 256px;
     margin-right: 48px;
-    margin-top: 36px;
+    margin-top: 16px;
 }
 
 .profiletext {
@@ -23,7 +23,7 @@ body {
 }
 
 .topdiv {
-    height: 292px;
+    height: 272px;
 }
 
 .powered {
