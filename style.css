@@ -32,6 +32,10 @@ body {
     margin-top: 64px;
 }
 
+.li-withoutstyle {
+    list-stype: none;
+}
+
 @media screen and (max-width: 1080px) {
     .container {
         position: absolute;
