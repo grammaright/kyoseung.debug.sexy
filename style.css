@@ -57,3 +57,33 @@ body {
         display: block;
     }
 }
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #FFFFFF;
+        color: #000000;
+    }
+
+    a:link {
+        color: #0000FF;
+    }
+
+    a:visited {
+        color: #4B2088;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #313235;
+        color: #FFFFFF;
+    }
+
+    a:link {
+        color: #8CA7FC;
+    }
+
+    a:visited {
+        color: #E0BBE4;
+    }
+}
