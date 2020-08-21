@@ -35,6 +35,15 @@ body {
     list-stype: none;
 }
 
+@media screen and (max-width: 600px) {
+    .profileimage {
+        position: relative;
+        float: none;
+        left: 50%;
+        margin-left: -128px;
+    }
+}
+
 @media screen and (max-width: 1080px) {
     .container {
         position: absolute;
