@@ -13,15 +13,16 @@ body {
     width: 256px;
     height: 256px;
     float: right;
+    display: block;
 }
 
 .profiletext {
-    display: inline-block;
+    display: block;
     vertical-align: top;
 }
 
 .topdiv {
-    height: 272px;
+    height: 100%;
     margin-top: 16px;
 }
 
@@ -53,19 +54,7 @@ body {
         padding: 0 2% 0 2%;
     }
 
-    .topdiv {
-        height: 100%;
-    }
-
-    .profileimage {
-        display: block;
-    }
-
-    .profiletext {
-        display: block;
-    }
 }
-
 @media (prefers-color-scheme: light) {
     body {
         background-color: #FFFFFF;
