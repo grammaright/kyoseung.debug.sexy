@@ -1,3 +1,3 @@
-# kyoseung.debug.sexy
+# kyoseung.me
 
 personal homepage
