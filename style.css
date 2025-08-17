@@ -10,8 +10,8 @@ body {
 }
 
 .profileimage {
-    width: 256px;
-    height: 256px;
+    width: 180px;
+    height: 180px;
     float: right;
     display: block;
 }
@@ -83,4 +83,15 @@ body {
     a:visited {
         color: #E0BBE4;
     }
+}
+
+.publication-highlight {
+    font-weight: 700;
+    color: #1a4b8c;
+    background-color: #f0f4ff;
+    padding: 2px 4px;
+    border-radius: 3px;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
 }
