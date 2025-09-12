@@ -84,19 +84,5 @@ body {
         color: #E0BBE4;
     }
 
-    .publication-highlight {
-        color: #a8c4ff !important;
-        background-color: #3e4045 !important;
-    }
 }
 
-.publication-highlight {
-    font-weight: 700;
-    color: #1a4b8c;
-    background-color: #f0f4ff;
-    padding: 2px 4px;
-    border-radius: 3px;
-    display: inline-block;
-    width: 100%;
-    vertical-align: top;
-}
